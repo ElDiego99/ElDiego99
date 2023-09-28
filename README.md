@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ElDiego99](https://github.com/ElDiego99)
 
-- 💬 Ask me about **HTML,CSS, JAVASCRIPT, JAVA.**
+- 💬 Ask me about **HTML,CSS, JAVASCRIPT, PYTHON.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/diego-armando-barahona-gomez-8848a7253/**
 
